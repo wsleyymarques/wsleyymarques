@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning HTML, CSS, Javascrypt and Phyton
+- 🌱 I’m currently learning DESENOLVIMENTO DE SISTEMAS | .NET | PL/SQL ORACLE | HTML | CSS | JavaScript | C++ |REDE| ESTACIO-DF
 
 <div align="center">
   <a href="https://github.com/wsleyymarques">
