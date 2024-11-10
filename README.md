@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning DESENOLVIMENTO DE SISTEMAS | .NET | PL/SQL ORACLE | HTML | CSS | JavaScript | C++ |REDE| ESTACIO-DF
+- 🌱 I’m currently learning DESENOLVIMENTO DE SISTEMAS |ESTACIO-DF
+- 🌱 Currently working as a JUNIOR DEVELOPMENT ANALYST | .NET | PL/SQL ORACLE | HTML | CSS | JavaScript |REACT- |REDE| ESTACIO-DF
 
 <div align="center">
   <a href="https://github.com/wsleyymarques">
